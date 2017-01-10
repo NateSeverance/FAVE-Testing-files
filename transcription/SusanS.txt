@@ -1,0 +1,199 @@
+SusanS	SusanS	25.754777262994285	26.6474333732453	nineteen eighty nine
+SusanS	SusanS	31.331646557299834	33.03737814168025	I was born in North Carolina
+SusanS	SusanS	33.23381930058155	34.44526258538661	Jacksonville North Carolina
+SusanS	SusanS	34.63221370958492	35.57444737554441	I came here
+SusanS	SusanS	41.1582381535903	41.747388901085436	two or three
+SusanS	SusanS	42.080870128039486	42.43981626982018	two or three
+SusanS	SusanS	45.13330583166261	48.70057509675143	I live in east Utica I've lived in the same part of east Utica since I came here
+SusanS	SusanS	49.45387250715407	50.589148067620826	I live over
+SusanS	SusanS	51.15325337199159	51.40150574100613	on
+SusanS	SusanS	51.679881123937186	52.388522775643246	Culver Ave
+SusanS	SusanS	57.18518181164504	58.077409196309574	I went to Albany school
+SusanS	SusanS	59.78765440299496	60.7546298871026	I go to Proctor still
+SusanS	SusanS	60.92460516685533	61.382640457785584	I graduate
+SusanS	SusanS	69.80604075039834	70.28053640764092	nursing
+SusanS	SusanS	72.47567247571067	75.41165810450927	I either want to be a neonatal nurse or a pediatric nurse
+SusanS	SusanS	79.7021973276536	80.11906107973826	I'm sorry
+SusanS	SusanS	81.55623773377255	81.88095709553805	that good
+SusanS	SusanS	87.50174053402105	89.3990265876363	my mom was born in New Hartford
+SusanS	SusanS	89.97512559177048	91.58052148329107	and my dad was born in Utica
+SusanS	SusanS	94.63565303654197	95.92611480580254	my dad was in the marines
+SusanS	SusanS	101.70345560045466	103.66219203728518	my mom's parents
+SusanS	SusanS	104.39959869585667	105.29831306099068	one was born
+SusanS	SusanS	107.90721243969537	108.94419055331154	I believe Cape Cod
+SusanS	SusanS	110.18088297029081	111.68642156487427	my grandmother was born
+SusanS	SusanS	112.70035572041007	113.96777341482982	in south Utica
+SusanS	SusanS	115.703473934362	116.59939729052223	and
+SusanS	SusanS	117.35459410123084	117.87692381771897	my
+SusanS	SusanS	118.70793676082735	118.97678293843154	other
+SusanS	SusanS	119.26099175475596	121.44248645302996	my dad's parents were both born in Utica
+SusanS	SusanS	142.96133482219926	143.9214996553389	for the mall and
+SusanS	SusanS	144.39006009391102	145.2350051470739	I go there
+SusanS	SusanS	146.0149138252697	146.45485610675973	couple
+SusanS	SusanS	147.77730771581722	151.45665935640827	maybe once a month because they have a club there that me and my friends go to so
+SusanS	SusanS	155.62165206956203	157.08878393459938	I have never been to Rochester
+SusanS	SusanS	162.23369679238152	163.4012572294793	I think I went there once
+SusanS	SusanS	164.16938909599102	164.90679568784225	to go shopping
+SusanS	SusanS	168.43280853894845	171.15199534639987	my friend Lauren her brother had a hockey tournament there
+SusanS	SusanS	171.63591842230224	172.56535798078139	so I was already there
+SusanS	SusanS	172.9752914660808	173.41312662999246	so we
+SusanS	SusanS	173.7434233325925	175.11069805498332	shopping while he was at his hockey
+SusanS	SusanS	178.36529190337623	179.01052267124606	never been there
+SusanS	SusanS	182.166650205594	183.10377108273826	I've been to Albany
+SusanS	SusanS	183.7950897625988	185.90745239550597	Schenectady I've never been to I've been to Albany
+SusanS	SusanS	187.50613243466873	188.58919836645023	a basketball game
+SusanS	SusanS	188.9104166428401	189.70159246534715	for Proctor
+SusanS	SusanS	189.92435070663555	190.92292213310074	it was the playoffs
+SusanS	SusanS	193.939646241923	194.69241547110445	for something else
+SusanS	SusanS	195.77548140288596	196.94304183998372	I don't really remember
+SusanS	SusanS	199.55961935750355	200.77267670854397	I've been there
+SusanS	SusanS	204.67360066443524	206.47940178861657	because I had like four days off from school
+SusanS	SusanS	207.6648895495295	208.67117567216494	for like two days
+SusanS	SusanS	209.54987382277537	210.35628119502428	and
+SusanS	SusanS	213.3300685984595	215.08762312771995	the second time I went
+SusanS	SusanS	217.35921894649303	219.64748601988313	me my grandparents my sister and my mom
+SusanS	SusanS	221.98236656044264	222.27873850067087	like
+SusanS	SusanS	223.08514587291978	225.86966363692463	it was like one of those science museums I don't remember what it was really called
+SusanS	SusanS	232.96890627682504	233.98208477016342	no I have not
+SusanS	SusanS	237.18832021344625	239.31117038996476	my aunt and uncle live there I've been there a lot of times
+SusanS	SusanS	247.60048371795344	249.88875079134354	Myrtle Beach is a big one over spring break
+SusanS	SusanS	250.61244971515666	251.35682575107876	Florida
+SusanS	SusanS	256.86948275313875	257.4624402759499	a lot of people
+SusanS	SusanS	258.8612426448906	260.7911059552237	the main cruise place is like Aruba
+SusanS	SusanS	262.3208291997316	263.09792641921626	that's about it that's all
+SusanS	SusanS	268.6407830593534	269.59192997658903	not that I know of
+SusanS	SusanS	276.83296017796675	278.76971585726534	there's not much to do movies
+SusanS	SusanS	279.4727374917438	280.5065928365652	they have a lot of restaurants
+SusanS	SusanS	281.20272210207816	281.8437124158674	they're good about
+SusanS	SusanS	282.4097537701495	283.9949986322089	Italian restaurants a lot of
+SusanS	SusanS	288.5354711413632	291.1683560861748	I don't know they have mini golfing stuff like that
+SusanS	SusanS	292.76094395881046	294.856224124315	there's not much to really do here
+SusanS	SusanS	304.2677419745334	305.1155033572869	it depends
+SusanS	SusanS	305.7013547193523	306.8179184917593	it depends if I
+SusanS	SusanS	307.58822981538805	309.4422770671009	when I finish here it depends on if
+SusanS	SusanS	310.0685287706932	311.25401527643123	the school I'm going to
+SusanS	SusanS	311.68134180756937	312.47396359919657	I'm going to
+SusanS	SusanS	313.0804915788765	314.20394681396544	where Saint Elizabeth is right
+SusanS	SusanS	314.8668977273918	315.962783508859	it's on the parkway
+SusanS	SusanS	316.58998857875525	317.5135652750861	the school of nursing
+SusanS	SusanS	317.7682001183608	318.9536866240989	it's a hospital but plus
+SusanS	SusanS	320.21458431217786	320.99636048486377	so if I
+SusanS	SusanS	321.2858397478928	324.8354069017015	if I get a job there then I'll stay here but if I don't then I'll probably go somewhere else
+SusanS	SusanS	325.26757656428845	326.41170888959374	I'm not really thinking where
+SusanS	SusanS	330.4431675776937	331.1548594776207	is this my bag
+SusanS	SusanS	332.20761260948984	332.9726649474952	is it yours
+SusanS	SusanS	339.7997309519164	340.13056439537814	no
+SusanS	SusanS	347.0919193478303	347.8707564126466	yes I have
+SusanS	SusanS	348.105096768432	348.80122547238284	many times
+SusanS	SusanS	350.2555141509336	351.17219848385895	no never
+SusanS	SusanS	357.23087849938116	358.2716253736047	at Proctor
+SusanS	SusanS	360.55989002421535	361.0010012821644	maybe like
+SusanS	SusanS	361.6533094258759	362.7974417511812	there was probably a fight
+SusanS	SusanS	365.4998888458516	369.43273612407256	stupid girl fights you know over boys and like gang fights stuff like that
+SusanS	SusanS	374.47948977010884	376.6781536964486	two girls got into a fight over some
+SusanS	SusanS	377.03655659353217	377.4363136710485	boy
+SusanS	SusanS	378.2857747594041	379.0783965510313	and the girl
+SusanS	SusanS	379.7193863477385	380.1536052422821	ripped
+SusanS	SusanS	380.53268522958206	382.4074080758655	her weave out her fake hair out
+SusanS	SusanS	382.9615553253689	384.0505487434306	and it was all over
+SusanS	SusanS	384.49166000137967	388.80627949319376	the other girl's shirt got ripped off and she was like running down the street with just a bra on
+SusanS	SusanS	397.85253015036426	398.5693359445315	a long time
+SusanS	SusanS	399.41709664340226	400.0856558937313	pretty long time
+SusanS	SusanS	405.55701008435767	408.6103270729737	some of them but I luckily I had a lot of good teachers
+SusanS	SusanS	410.19477129808513	411.29754944295775	and good teachers
+SusanS	SusanS	421.8429675189349	424.076093262302	I used to be really bad at math but math was my favorite
+SusanS	SusanS	424.3586801619256	425.3511804923109	subject this year
+SusanS	SusanS	428.18564263387105	428.8610942476055	yes very
+SusanS	SusanS	429.15746587404004	430.03279602653265	my favorite teacher
+SusanS	SusanS	452.1554358876123	453.4236307542158	a cot is like
+SusanS	SusanS	454.8278149583351	455.62732911336775	a smaller
+SusanS	SusanS	455.86856183255867	457.24014215024397	pullout bed like it has
+SusanS	SusanS	457.5434061400839	459.0666184526892	the legs that you can like open up
+SusanS	SusanS	459.4776938772098	464.39194898529837	and a bed is like one with like a headboard and a mattress and a frame all that
+SusanS	SusanS	471.4460799869384	472.5281810415947	getting caught
+SusanS	SusanS	473.44486537452	475.5194667595616	getting caught is when you're in trouble
+SusanS	SusanS	476.5435453793177	477.6738929778121	getting found out
+SusanS	SusanS	480.52569777382723	484.25446637617773	I don't know you just find out something it doesn't necessarily have to mean that you're in trouble
+SusanS	SusanS	485.32281685671194	486.3842408211518	something's gonna happen
+SusanS	SusanS	493.26727728147864	493.7910969002931	a bet
+SusanS	SusanS	494.1357150705658	494.9903681328421	is money
+SusanS	SusanS	496.8650909791255	497.67838986096905	something
+SusanS	SusanS	500.23927500364573	502.92040436836726	I'd have to say a wager has to do with money more than a bet
+SusanS	SusanS	503.0612022922088	504.09505680302686	a bet is just like
+SusanS	SusanS	504.55684515119225	505.5217760279558	oh I bet you
+SusanS	SusanS	506.2488411392078	507.8547617317107	I bet you that's gonna happen
+SusanS	SusanS	508.1166715279129	511.4801447001937	I bet you something's gonna happen it's not necessarily a set deal
+SusanS	SusanS	516.4168446709679	517.0716190624355	a mat
+SusanS	SusanS	518.1054733647527	519.3943450616416	something you wipe your feet on
+SusanS	SusanS	520.189917568319	522.112886570629	and a rug is something you have in your house
+SusanS	SusanS	547.5852111497672	550.8384060210589	the school I go to we have a very strict dress code
+SusanS	SusanS	552.4629539426095	554.1515826363943	button down shirts with a collar
+SusanS	SusanS	554.7679521609343	559.0550013345432	boys and girls no matter what sex I hate those shirts they look like sacks
+SusanS	SusanS	562.720103238258	563.011484889623	that would
+SusanS	SusanS	563.8408672914776	564.798905611625	I would say too
+SusanS	SusanS	565.2400167806136	567.1009545247847	you can't even tie them at the bottom
+SusanS	SusanS	568.7714740280383	569.7984359683401	my girlfriend
+SusanS	SusanS	570.149946431128	571.3354326977851	Jan got detention
+SusanS	SusanS	571.7972209528201	573.4720649225741	she had to stay till six
+SusanS	SusanS	573.9382796861777	575.9094952225959	and you got to wear socks no flipflops
+SusanS	SusanS	576.957134248944	577.6670475365352	it's pretty stupid
+SusanS	SusanS	578.5812654387088	579.6357968270723	the hall monitor
+SusanS	SusanS	579.8494600495512	580.3457101146636	stalks you
+SusanS	SusanS	581.338210244888	581.8482450340313	out of
+SusanS	SusanS	582.6154146290753	584.317828046891	last week John got suspended
+SusanS	SusanS	584.688157375106	586.4594944130763	because he said the dress code sucks
+SusanS	SusanS	587.024668098343	588.3204321572473	I don't see what's wrong with that
+SusanS	SusanS	589.6853770648461	592.5663843873035	father says that he know what I mean I'm so sick of that school
+SusanS	SusanS	596.5447862638508	597.6820259963998	that would probably be pretty
+SusanS	SusanS	598.4884323522073	599.115637295613	pretty tough
+SusanS	SusanS	599.8331192601496	600.6257408919262	to have to wear
+SusanS	SusanS	601.3563312655638	603.2793002678739	shoes and socks every day
+SusanS	SusanS	604.7219209479977	606.2727024014736	I wear flipflops every day except
+SusanS	SusanS	615.2215903378747	616.9860350138295	I don't have a stupid dress code either
+SusanS	SusanS	618.3507226928882	619.4603929773754	pretty diverse school
+SusanS	SusanS	619.991138997399	620.8526842493301	whatever we want
+SusanS	SusanS	624.429245862486	626.1109821942554	there are limits on what we get to wear
+SusanS	SusanS	626.7381871376612	628.2338296950135	no revealing stuff
+SusanS	SusanS	628.9270752809068	629.2531370989859	you know you
+SusanS	SusanS	629.5060336902045	631.2704783661593	can't wear like the butt shorts
+SusanS	SusanS	631.9114680335961	633.0900619382377	your butt hanging out of them
+SusanS	SusanS	635.7267627114456	636.5331690672531	that's reasonable
+SusanS	SusanS	637.6010069704067	638.0795165868177	flipflops
+SusanS	SusanS	649.107664469656	649.9002861014326	I really don't know
+SusanS	SusanS	650.7402527252608	651.2502874115436	a lot of
+SusanS	SusanS	651.863707507208	653.7591066792048	that I've talked to in Syracuse
+SusanS	SusanS	654.6315540509589	655.1140192947399	so
+SusanS	SusanS	660.3595899279482	662.5503005906581	cause I don't know enough people there I've only went there
+SusanS	SusanS	664.0727130095485	664.6034247777076	little
+SusanS	SusanS	665.7337719202802	667.4706467978918	shopping trips and stuff like that
+SusanS	SusanS	671.2546202703505	672.1299500697818	they talk different
+SusanS	SusanS	672.708908362319	674.0391339630295	that's the one thing I've realized
+SusanS	SusanS	677.529652885684	679.7627777283275	you could tell that they have more of an accent
+SusanS	SusanS	681.3755901146811	681.7960241128332	they
+SusanS	SusanS	681.9131942434657	682.3336282416177	slang
+SusanS	SusanS	682.7651554264979	683.4061449646641	a little bit more
+SusanS	SusanS	698.7136052906434	699.8508447938415	cot and caught
+SusanS	SusanS	703.2037070047074	704.6097485722978	Don and dawn
+SusanS	SusanS	706.3361990746383	707.6319628722216	father and brother
+SusanS	SusanS	708.0523968703736	708.9828655548084	bother bother
+SusanS	SusanS	710.2170477745957	710.5547734452424	father
+SusanS	SusanS	714.3284875397184	715.4519423216656	nearer and mirror
+SusanS	SusanS	715.5691124522981	716.1480707448353	they rhyme
+SusanS	SusanS	718.0119592077742	719.1698757928486	fool and full
+SusanS	SusanS	729.796329100992	730.4924575241618	read em out loud
+SusanS	SusanS	732.3360848285122	733.4044007254558	farm dusk
+SusanS	SusanS	734.107421509251	736.1406678937567	sight socks elementary
+SusanS	SusanS	736.3921602860639	737.1916741186153	highschool
+SusanS	SusanS	737.5638615923892	738.0463268361702	boat
+SusanS	SusanS	738.7644166026625	739.5225762714613	slider
+SusanS	SusanS	740.0188262364932	740.6253539715321	slider
+SusanS	SusanS	741.3062539087916	743.8771044220819	six tiger burn writing
+SusanS	SusanS	744.0983005230834	744.6496893731188	go
+SusanS	SusanS	745.1872935019034	745.9730226132039	stalks
+SusanS	SusanS	746.4279184144831	747.0275537888966	wide
+SusanS	SusanS	747.9457470436604	751.0748787676115	inventory firm spider desk
+SusanS	SusanS	755.0628973873313	755.9933660717661	rudimentary
+SusanS	SusanS	757.4259519875244	758.7630699488603	white crayon
+SusanS	SusanS	759.3608472050626	762.3521317165048	home sex tied bag no
+SusanS	SusanS	762.9887632799591	763.6917840637543	riding
+SusanS	SusanS	763.8916625218922	766.145464446412	sacks sedimentary minor

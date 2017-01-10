@@ -1,0 +1,1622 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1304.461875 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Janet" 
+        xmin = 0 
+        xmax = 1304.461875 
+        intervals: size = 402 
+        intervals [1]:
+            xmin = 0 
+            xmax = 19.842170372622785 
+            text = "" 
+        intervals [2]:
+            xmin = 19.842170372622785 
+            xmax = 21.055425083680785 
+            text = "nineteen forty two" 
+        intervals [3]:
+            xmin = 21.055425083680785 
+            xmax = 26.939113045966103 
+            text = "" 
+        intervals [4]:
+            xmin = 26.939113045966103 
+            xmax = 29.065640826980875 
+            text = "been in Utica all my life I did at one " 
+        intervals [5]:
+            xmin = 29.065640826980875 
+            xmax = 29.1725511793943 
+            text = "" 
+        intervals [6]:
+            xmin = 29.1725511793943 
+            xmax = 32.18547929286358 
+            text = "point in nineteen seventy two" 
+        intervals [7]:
+            xmin = 32.18547929286358 
+            xmax = 32.58396333367726 
+            text = "" 
+        intervals [8]:
+            xmin = 32.58396333367726 
+            xmax = 33.96407879210513 
+            text = "through nineteen seventy" 
+        intervals [9]:
+            xmin = 33.96407879210513 
+            xmax = 34.074166626567425 
+            text = "" 
+        intervals [10]:
+            xmin = 34.074166626567425 
+            xmax = 37.05793737119668 
+            text = "nine we owned a home up north in Remsen" 
+        intervals [11]:
+            xmin = 37.05793737119668 
+            xmax = 38.69654488801692 
+            text = "" 
+        intervals [12]:
+            xmin = 38.69654488801692 
+            xmax = 39.34772612544416 
+            text = "and" 
+        intervals [13]:
+            xmin = 39.34772612544416 
+            xmax = 40.13684633696677 
+            text = "" 
+        intervals [14]:
+            xmin = 40.13684633696677 
+            xmax = 41.67246776254144 
+            text = "it was nice we had thirty" 
+        intervals [15]:
+            xmin = 41.67246776254144 
+            xmax = 41.87656934442161 
+            text = "" 
+        intervals [16]:
+            xmin = 41.87656934442161 
+            xmax = 44.69511499895739 
+            text = "acres of land we did some farming" 
+        intervals [17]:
+            xmin = 44.69511499895739 
+            xmax = 44.704834121904064 
+            text = "" 
+        intervals [18]:
+            xmin = 44.704834121904064 
+            xmax = 47.144333981519516 
+            text = "pigs and a lamb we had a horse" 
+        intervals [19]:
+            xmin = 47.144333981519516 
+            xmax = 47.36908982285028 
+            text = "" 
+        intervals [20]:
+            xmin = 47.36908982285028 
+            xmax = 48.94358774021164 
+            text = "then the winters had got" 
+        intervals [21]:
+            xmin = 48.94358774021164 
+            xmax = 48.98246423199834 
+            text = "" 
+        intervals [22]:
+            xmin = 48.98246423199834 
+            xmax = 53.30747394326876 
+            text = "treacherous and then when the girls graduated highschool we came back to the city" 
+        intervals [23]:
+            xmin = 53.30747394326876 
+            xmax = 68.89087737192253 
+            text = "" 
+        intervals [24]:
+            xmin = 68.89087737192253 
+            xmax = 69.37683351925628 
+            text = "always" 
+        intervals [25]:
+            xmin = 69.37683351925628 
+            xmax = 69.89194703543005 
+            text = "" 
+        intervals [26]:
+            xmin = 69.89194703543005 
+            xmax = 71.01936529724436 
+            text = "east Utica right here" 
+        intervals [27]:
+            xmin = 71.01936529724436 
+            xmax = 71.37897284627134 
+            text = "" 
+        intervals [28]:
+            xmin = 71.37897284627134 
+            xmax = 71.88436723949845 
+            text = "always" 
+        intervals [29]:
+            xmin = 71.88436723949845 
+            xmax = 72.16622180495203 
+            text = "" 
+        intervals [30]:
+            xmin = 72.16622180495203 
+            xmax = 73.03122374720611 
+            text = "where I am right now" 
+        intervals [31]:
+            xmin = 73.03122374720611 
+            xmax = 78.142736626246 
+            text = "" 
+        intervals [32]:
+            xmin = 78.142736626246 
+            xmax = 81.20426035444865 
+            text = "I went to elementary school at saint Francis de Sales" 
+        intervals [33]:
+            xmin = 81.20426035444865 
+            xmax = 81.60068877801268 
+            text = "" 
+        intervals [34]:
+            xmin = 81.60068877801268 
+            xmax = 83.48619862966765 
+            text = "school on eagle street in Utica" 
+        intervals [35]:
+            xmin = 83.48619862966765 
+            xmax = 83.9332782852147 
+            text = "" 
+        intervals [36]:
+            xmin = 83.9332782852147 
+            xmax = 87.70429798852463 
+            text = "and then I went there from first grade to eighth grade and graduated" 
+        intervals [37]:
+            xmin = 87.70429798852463 
+            xmax = 87.75289360325802 
+            text = "" 
+        intervals [38]:
+            xmin = 87.75289360325802 
+            xmax = 90.11912681920232 
+            text = "from there and went on to Proctor highschool" 
+        intervals [39]:
+            xmin = 90.11912681920232 
+            xmax = 95.12634508512005 
+            text = "" 
+        intervals [40]:
+            xmin = 95.12634508512005 
+            xmax = 95.43735701941365 
+            text = "both" 
+        intervals [41]:
+            xmin = 95.43735701941365 
+            xmax = 96.51617966649458 
+            text = "" 
+        intervals [42]:
+            xmin = 96.51617966649458 
+            xmax = 97.38118160874866 
+            text = "mommy and dad" 
+        intervals [43]:
+            xmin = 97.38118160874866 
+            xmax = 99.43313191182342 
+            text = "" 
+        intervals [44]:
+            xmin = 99.43313191182342 
+            xmax = 101.41583299294514 
+            text = "grandparents were from Italy" 
+        intervals [45]:
+            xmin = 101.41583299294514 
+            xmax = 102.06701423037237 
+            text = "" 
+        intervals [46]:
+            xmin = 102.06701423037237 
+            xmax = 103.52488267237364 
+            text = "on my moms side" 
+        intervals [47]:
+            xmin = 103.52488267237364 
+            xmax = 104.00364423219452 
+            text = "" 
+        intervals [48]:
+            xmin = 104.00364423219452 
+            xmax = 106.17100864930306 
+            text = "but my dads side was from Utica" 
+        intervals [49]:
+            xmin = 106.17100864930306 
+            xmax = 113.96696191832467 
+            text = "" 
+        intervals [50]:
+            xmin = 113.96696191832467 
+            xmax = 114.64730052459193 
+            text = "highschool" 
+        intervals [51]:
+            xmin = 114.64730052459193 
+            xmax = 115.03083070272173 
+            text = "" 
+        intervals [52]:
+            xmin = 115.03083070272173 
+            xmax = 117.74246600484408 
+            text = "we were eight children in the family so there was no money" 
+        intervals [53]:
+            xmin = 117.74246600484408 
+            xmax = 118.26271979574291 
+            text = "" 
+        intervals [54]:
+            xmin = 118.26271979574291 
+            xmax = 121.21733317153213 
+            text = "they have so many opportunities today with financial aid" 
+        intervals [55]:
+            xmin = 121.21733317153213 
+            xmax = 121.31060079206199 
+            text = "" 
+        intervals [56]:
+            xmin = 121.31060079206199 
+            xmax = 126.14100489655951 
+            text = "so many different programs we didn't at that point my dad was sick with arthritis and we had a" 
+        intervals [57]:
+            xmin = 126.14100489655951 
+            xmax = 126.5886472830719 
+            text = "" 
+        intervals [58]:
+            xmin = 126.5886472830719 
+            xmax = 128.36724678231343 
+            text = "we worked our parttime jobs" 
+        intervals [59]:
+            xmin = 128.36724678231343 
+            xmax = 129.25168697046084 
+            text = "" 
+        intervals [60]:
+            xmin = 129.25168697046084 
+            xmax = 130.83590401076887 
+            text = "so we helped out the family life" 
+        intervals [61]:
+            xmin = 130.83590401076887 
+            xmax = 133.98415405458044 
+            text = "" 
+        intervals [62]:
+            xmin = 133.98415405458044 
+            xmax = 136.59859812723602 
+            text = "when I finished highschool my first job is I got a" 
+        intervals [63]:
+            xmin = 136.59859812723602 
+            xmax = 137.61910603663688 
+            text = "" 
+        intervals [64]:
+            xmin = 137.61910603663688 
+            xmax = 138.75624342139787 
+            text = "in a doctor's office" 
+        intervals [65]:
+            xmin = 138.75624342139787 
+            xmax = 139.0089406180114 
+            text = "" 
+        intervals [66]:
+            xmin = 139.0089406180114 
+            xmax = 140.72922537957288 
+            text = "secretary work and typing" 
+        intervals [67]:
+            xmin = 140.72922537957288 
+            xmax = 140.8879104692073 
+            text = "" 
+        intervals [68]:
+            xmin = 140.8879104692073 
+            xmax = 143.13302786988922 
+            text = "like what I took in highschool you know keyboard" 
+        intervals [69]:
+            xmin = 143.13302786988922 
+            xmax = 146.30071420290133 
+            text = "" 
+        intervals [70]:
+            xmin = 146.30071420290133 
+            xmax = 147.865492997316 
+            text = "oh my god I spent" 
+        intervals [71]:
+            xmin = 147.865492997316 
+            xmax = 147.95296510383608 
+            text = "" 
+        intervals [72]:
+            xmin = 147.95296510383608 
+            xmax = 152.2876939380531 
+            text = "nineteen years I've worked in Chicago markets they're now closed" 
+        intervals [73]:
+            xmin = 152.2876939380531 
+            xmax = 152.61814411824005 
+            text = "" 
+        intervals [74]:
+            xmin = 152.61814411824005 
+            xmax = 153.64837115058762 
+            text = "grocery store" 
+        intervals [75]:
+            xmin = 153.64837115058762 
+            xmax = 153.92237523701277 
+            text = "" 
+        intervals [76]:
+            xmin = 153.92237523701277 
+            xmax = 154.5346799826533 
+            text = "I did" 
+        intervals [77]:
+            xmin = 154.5346799826533 
+            xmax = 155.0011978840937 
+            text = "" 
+        intervals [78]:
+            xmin = 155.0011978840937 
+            xmax = 158.47092477605665 
+            text = "four hours in the office and four hours out on the register" 
+        intervals [79]:
+            xmin = 158.47092477605665 
+            xmax = 159.13304049775695 
+            text = "" 
+        intervals [80]:
+            xmin = 159.13304049775695 
+            xmax = 161.44619175906558 
+            text = "then after I left that job I" 
+        intervals [81]:
+            xmin = 161.44619175906558 
+            xmax = 163.33170161072053 
+            text = "" 
+        intervals [82]:
+            xmin = 163.33170161072053 
+            xmax = 165.6919948740405 
+            text = "for food service here in the college" 
+        intervals [83]:
+            xmin = 165.6919948740405 
+            xmax = 167.38448337116475 
+            text = "" 
+        intervals [84]:
+            xmin = 167.38448337116475 
+            xmax = 168.82291356727265 
+            text = "I worked there five years" 
+        intervals [85]:
+            xmin = 168.82291356727265 
+            xmax = 169.65875814068667 
+            text = "" 
+        intervals [86]:
+            xmin = 169.65875814068667 
+            xmax = 172.18573010682218 
+            text = "now I've been here over here fourteen years" 
+        intervals [87]:
+            xmin = 172.18573010682218 
+            xmax = 173.8871360923011 
+            text = "" 
+        intervals [88]:
+            xmin = 173.8871360923011 
+            xmax = 175.44219576376906 
+            text = "this is where I plan to retire" 
+        intervals [89]:
+            xmin = 175.44219576376906 
+            xmax = 176.93894069755703 
+            text = "" 
+        intervals [90]:
+            xmin = 176.93894069755703 
+            xmax = 177.89141474633115 
+            text = "very much" 
+        intervals [91]:
+            xmin = 177.89141474633115 
+            xmax = 178.3773708936649 
+            text = "" 
+        intervals [92]:
+            xmin = 178.3773708936649 
+            xmax = 180.42810583541333 
+            text = "people are nice the students are nice" 
+        intervals [93]:
+            xmin = 180.42810583541333 
+            xmax = 181.1171899088687 
+            text = "" 
+        intervals [94]:
+            xmin = 181.1171899088687 
+            xmax = 184.26415358388488 
+            text = "there's really no problem at all its a nice community college" 
+        intervals [95]:
+            xmin = 184.26415358388488 
+            xmax = 185.06546377891215 
+            text = "" 
+        intervals [96]:
+            xmin = 185.06546377891215 
+            xmax = 186.01246673667166 
+            text = "place to start" 
+        intervals [97]:
+            xmin = 186.01246673667166 
+            xmax = 188.58044974192504 
+            text = "" 
+        intervals [98]:
+            xmin = 188.58044974192504 
+            xmax = 189.16322079285396 
+            text = "it is a" 
+        intervals [99]:
+            xmin = 189.16322079285396 
+            xmax = 189.6440069098703 
+            text = "" 
+        intervals [100]:
+            xmin = 189.6440069098703 
+            xmax = 193.4377173476137 
+            text = "interesting store there's so many things that you get in in the" 
+        intervals [101]:
+            xmin = 193.4377173476137 
+            xmax = 193.7962506477389 
+            text = "" 
+        intervals [102]:
+            xmin = 193.7962506477389 
+            xmax = 195.500855971706 
+            text = "fall and in the spring" 
+        intervals [103]:
+            xmin = 195.500855971706 
+            xmax = 197.25992814913286 
+            text = "" 
+        intervals [104]:
+            xmin = 197.25992814913286 
+            xmax = 200.45059965296872 
+            text = "we sell everything in this bookstore from software to" 
+        intervals [105]:
+            xmin = 200.45059965296872 
+            xmax = 200.65456952079384 
+            text = "" 
+        intervals [106]:
+            xmin = 200.65456952079384 
+            xmax = 202.94194589568986 
+            text = "art supplies to deodorant" 
+        intervals [107]:
+            xmin = 202.94194589568986 
+            xmax = 203.43349281250255 
+            text = "" 
+        intervals [108]:
+            xmin = 203.43349281250255 
+            xmax = 206.34734806714718 
+            text = "clothing to the main thing is our books naturally" 
+        intervals [109]:
+            xmin = 206.34734806714718 
+            xmax = 206.75528780279743 
+            text = "" 
+        intervals [110]:
+            xmin = 206.75528780279743 
+            xmax = 210.88409375 
+            text = "you know but we do have a little of everything to accommodate these dorm students" 
+        intervals [111]:
+            xmin = 210.88409375 
+            xmax = 219.44574724107684 
+            text = "" 
+        intervals [112]:
+            xmin = 219.44574724107684 
+            xmax = 221.16492184131718 
+            text = "well the kids were" 
+        intervals [113]:
+            xmin = 221.16492184131718 
+            xmax = 221.57286157696743 
+            text = "" 
+        intervals [114]:
+            xmin = 221.57286157696743 
+            xmax = 225.82709024874856 
+            text = "still at an age of like eight and ten you know and we were in the city and" 
+        intervals [115]:
+            xmin = 225.82709024874856 
+            xmax = 226.18118116008486 
+            text = "" 
+        intervals [116]:
+            xmin = 226.18118116008486 
+            xmax = 228.39571115361477 
+            text = "and the people next door with the" 
+        intervals [117]:
+            xmin = 228.39571115361477 
+            xmax = 228.84735871808468 
+            text = "" 
+        intervals [118]:
+            xmin = 228.84735871808468 
+            xmax = 231.42612061844517 
+            text = "balls on my side and you can't do this" 
+        intervals [119]:
+            xmin = 231.42612061844517 
+            xmax = 231.8340603540954 
+            text = "" 
+        intervals [120]:
+            xmin = 231.8340603540954 
+            xmax = 234.80619271383293 
+            text = "the lady put a fence up and my husband says look" 
+        intervals [121]:
+            xmin = 234.80619271383293 
+            xmax = 235.2774725814345 
+            text = "" 
+        intervals [122]:
+            xmin = 235.2774725814345 
+            xmax = 239.2111771752047 
+            text = "this is it we're gonna move up north and have some land and we're gonna" 
+        intervals [123]:
+            xmin = 239.2111771752047 
+            xmax = 239.25488500402437 
+            text = "" 
+        intervals [124]:
+            xmin = 239.25488500402437 
+            xmax = 241.62967703655974 
+            text = "let these kids play and do what they want" 
+        intervals [125]:
+            xmin = 241.62967703655974 
+            xmax = 242.56526950666608 
+            text = "" 
+        intervals [126]:
+            xmin = 242.56526950666608 
+            xmax = 247.1837300852778 
+            text = "and it was nice and it really was they graduated highschool up there and then we came back here" 
+        intervals [127]:
+            xmin = 247.1837300852778 
+            xmax = 247.40226922937615 
+            text = "" 
+        intervals [128]:
+            xmin = 247.40226922937615 
+            xmax = 248.97575106688424 
+            text = "to the city which I love the city" 
+        intervals [129]:
+            xmin = 248.97575106688424 
+            xmax = 249.31084442116838 
+            text = "" 
+        intervals [130]:
+            xmin = 249.31084442116838 
+            xmax = 250.09758533992243 
+            text = "I really do" 
+        intervals [131]:
+            xmin = 250.09758533992243 
+            xmax = 252.58893158264357 
+            text = "" 
+        intervals [132]:
+            xmin = 252.58893158264357 
+            xmax = 252.9968713182938 
+            text = "pardon" 
+        intervals [133]:
+            xmin = 252.9968713182938 
+            xmax = 254.17190342332717 
+            text = "" 
+        intervals [134]:
+            xmin = 254.17190342332717 
+            xmax = 256.66324966604833 
+            text = "yes they did they both went they both came here" 
+        intervals [135]:
+            xmin = 256.66324966604833 
+            xmax = 259.3439965003214 
+            text = "" 
+        intervals [136]:
+            xmin = 259.3439965003214 
+            xmax = 260.7863548513705 
+            text = "a degree in accounting" 
+        intervals [137]:
+            xmin = 260.7863548513705 
+            xmax = 260.9757554429224 
+            text = "" 
+        intervals [138]:
+            xmin = 260.9757554429224 
+            xmax = 262.14129754478023 
+            text = "and the other ones got" 
+        intervals [139]:
+            xmin = 262.14129754478023 
+            xmax = 262.9280384635343 
+            text = "" 
+        intervals [140]:
+            xmin = 262.9280384635343 
+            xmax = 264.16642694675824 
+            text = "she's a secretary" 
+        intervals [141]:
+            xmin = 264.16642694675824 
+            xmax = 264.46730182316725 
+            text = "" 
+        intervals [142]:
+            xmin = 264.46730182316725 
+            xmax = 265.6474132012984 
+            text = "medical secretary" 
+        intervals [143]:
+            xmin = 265.6474132012984 
+            xmax = 284.79775393147503 
+            text = "" 
+        intervals [144]:
+            xmin = 284.79775393147503 
+            xmax = 289.48906089145294 
+            text = "hard question for me because I'm not a traveler and I don't go a lot of places like" 
+        intervals [145]:
+            xmin = 289.48906089145294 
+            xmax = 290.8877114136823 
+            text = "" 
+        intervals [146]:
+            xmin = 290.8877114136823 
+            xmax = 294.0346750886986 
+            text = "California several times 'cause we have a lot of family there" 
+        intervals [147]:
+            xmin = 294.0346750886986 
+            xmax = 298.21794602334353 
+            text = "" 
+        intervals [148]:
+            xmin = 298.21794602334353 
+            xmax = 299.485473059114 
+            text = "basically the same" 
+        intervals [149]:
+            xmin = 299.485473059114 
+            xmax = 299.90798207103745 
+            text = "" 
+        intervals [150]:
+            xmin = 299.90798207103745 
+            xmax = 301.49603318481877 
+            text = "the only thing I didn't like about" 
+        intervals [151]:
+            xmin = 301.49603318481877 
+            xmax = 302.14635294924597 
+            text = "" 
+        intervals [152]:
+            xmin = 302.14635294924597 
+            xmax = 303.31339614686266 
+            text = "the grocery stores" 
+        intervals [153]:
+            xmin = 303.31339614686266 
+            xmax = 303.63168065530357 
+            text = "" 
+        intervals [154]:
+            xmin = 303.63168065530357 
+            xmax = 307.7845356701993 
+            text = "carry a lot of the same products we carry in our stores here like Hellman's mayonnaise" 
+        intervals [155]:
+            xmin = 307.7845356701993 
+            xmax = 308.7484448250991 
+            text = "" 
+        intervals [156]:
+            xmin = 308.7484448250991 
+            xmax = 312.3163008141914 
+            text = "buy different sausages or different types of things like that but" 
+        intervals [157]:
+            xmin = 312.3163008141914 
+            xmax = 313.2688772070461 
+            text = "" 
+        intervals [158]:
+            xmin = 313.2688772070461 
+            xmax = 314.29640739148596 
+            text = "I think that the" 
+        intervals [159]:
+            xmin = 314.29640739148596 
+            xmax = 315.3994912659582 
+            text = "" 
+        intervals [160]:
+            xmin = 315.3994912659582 
+            xmax = 320.34070259407355 
+            text = "the other states I want to say or in cities like in Syracuse I would say" 
+        intervals [161]:
+            xmin = 320.34070259407355 
+            xmax = 320.7292104572076 
+            text = "" 
+        intervals [162]:
+            xmin = 320.7292104572076 
+            xmax = 323.7310726266917 
+            text = "have a lot more industry a lot more work" 
+        intervals [163]:
+            xmin = 323.7310726266917 
+            xmax = 324.17495632982144 
+            text = "" 
+        intervals [164]:
+            xmin = 324.17495632982144 
+            xmax = 326.0017084927015 
+            text = "unemployment is higher rated here" 
+        intervals [165]:
+            xmin = 326.0017084927015 
+            xmax = 326.29194014474785 
+            text = "" 
+        intervals [166]:
+            xmin = 326.29194014474785 
+            xmax = 327.1455626507666 
+            text = "we had so many" 
+        intervals [167]:
+            xmin = 327.1455626507666 
+            xmax = 327.5946369926774 
+            text = "" 
+        intervals [168]:
+            xmin = 327.5946369926774 
+            xmax = 329.64333100712236 
+            text = "places that closed down here we lost" 
+        intervals [169]:
+            xmin = 329.64333100712236 
+            xmax = 330.6506055642244 
+            text = "" 
+        intervals [170]:
+            xmin = 330.6506055642244 
+            xmax = 333.7919363863733 
+            text = "Sperry Rand we lost our general electric" 
+        intervals [171]:
+            xmin = 333.7919363863733 
+            xmax = 334.04802313817896 
+            text = "" 
+        intervals [172]:
+            xmin = 334.04802313817896 
+            xmax = 335.00408034491994 
+            text = "we lost" 
+        intervals [173]:
+            xmin = 335.00408034491994 
+            xmax = 337.3143328179881 
+            text = "" 
+        intervals [174]:
+            xmin = 337.3143328179881 
+            xmax = 338.4411145259328 
+            text = "whats the one down on" 
+        intervals [175]:
+            xmin = 338.4411145259328 
+            xmax = 345.2298186806637 
+            text = "" 
+        intervals [176]:
+            xmin = 345.2298186806637 
+            xmax = 346.4078177389695 
+            text = "Utica corp." 
+        intervals [177]:
+            xmin = 346.4078177389695 
+            xmax = 347.5345994469143 
+            text = "" 
+        intervals [178]:
+            xmin = 347.5345994469143 
+            xmax = 350.1808292155723 
+            text = "we lost a lot of different industries here" 
+        intervals [179]:
+            xmin = 350.1808292155723 
+            xmax = 351.37590072399854 
+            text = "" 
+        intervals [180]:
+            xmin = 351.37590072399854 
+            xmax = 352.3490303808599 
+            text = "in Rome" 
+        intervals [181]:
+            xmin = 352.3490303808599 
+            xmax = 352.77556113244054 
+            text = "" 
+        intervals [182]:
+            xmin = 352.77556113244054 
+            xmax = 359.00700542637725 
+            text = "we lost different industries you know so the work here isn't good even for the students that are graduating now" 
+        intervals [183]:
+            xmin = 359.00700542637725 
+            xmax = 359.2460197280625 
+            text = "" 
+        intervals [184]:
+            xmin = 359.2460197280625 
+            xmax = 360.27036673528494 
+            text = "they're all going away" 
+        intervals [185]:
+            xmin = 360.27036673528494 
+            xmax = 360.7483953386554 
+            text = "" 
+        intervals [186]:
+            xmin = 360.7483953386554 
+            xmax = 363.88972616080434 
+            text = "they come here two years and then they go on 'cause they all know that" 
+        intervals [187]:
+            xmin = 363.88972616080434 
+            xmax = 364.35596788956076 
+            text = "" 
+        intervals [188]:
+            xmin = 364.35596788956076 
+            xmax = 368.4021385680895 
+            text = "there's no work in their areas like we got a lot of English major students that" 
+        intervals [189]:
+            xmin = 368.4021385680895 
+            xmax = 368.5045732688118 
+            text = "" 
+        intervals [190]:
+            xmin = 368.5045732688118 
+            xmax = 370.8264264851827 
+            text = "they don't want to teach but they're a English major" 
+        intervals [191]:
+            xmin = 370.8264264851827 
+            xmax = 370.91178873578457 
+            text = "" 
+        intervals [192]:
+            xmin = 370.91178873578457 
+            xmax = 373.18242460179437 
+            text = "they want to go into like poetry or" 
+        intervals [193]:
+            xmin = 373.18242460179437 
+            xmax = 373.6433807550445 
+            text = "" 
+        intervals [194]:
+            xmin = 373.6433807550445 
+            xmax = 376.63105952611005 
+            text = "writing literature or things like that" 
+        intervals [195]:
+            xmin = 376.63105952611005 
+            xmax = 377.1086208445097 
+            text = "" 
+        intervals [196]:
+            xmin = 377.1086208445097 
+            xmax = 380.4548210681031 
+            text = "over here your best thing to do is either become a teacher" 
+        intervals [197]:
+            xmin = 380.4548210681031 
+            xmax = 380.52301780292896 
+            text = "" 
+        intervals [198]:
+            xmin = 380.52301780292896 
+            xmax = 383.0156885861593 
+            text = "go in the medical field or in the nurses" 
+        intervals [199]:
+            xmin = 383.0156885861593 
+            xmax = 387.5569603181789 
+            text = "" 
+        intervals [200]:
+            xmin = 387.5569603181789 
+            xmax = 388.564234875281 
+            text = "I don't think so" 
+        intervals [201]:
+            xmin = 388.564234875281 
+            xmax = 390.94249925632556 
+            text = "" 
+        intervals [202]:
+            xmin = 390.94249925632556 
+            xmax = 394.6642933825672 
+            text = "they're trying like they brought a couple different insurance companies in here" 
+        intervals [203]:
+            xmin = 394.6642933825672 
+            xmax = 394.86916278401173 
+            text = "" 
+        intervals [204]:
+            xmin = 394.86916278401173 
+            xmax = 397.65197215363276 
+            text = "within the last six months and they're trying there" 
+        intervals [205]:
+            xmin = 397.65197215363276 
+            xmax = 397.9422038056791 
+            text = "" 
+        intervals [206]:
+            xmin = 397.9422038056791 
+            xmax = 402.9273592408285 
+            text = "and they just opened up something in Rome its to do with the math students where" 
+        intervals [207]:
+            xmin = 402.9273592408285 
+            xmax = 403.04686639167113 
+            text = "" 
+        intervals [208]:
+            xmin = 403.04686639167113 
+            xmax = 404.71996650346784 
+            text = "if you're a math major you'd" 
+        intervals [209]:
+            xmin = 404.71996650346784 
+            xmax = 406.2052696639404 
+            text = "get a job there right away" 
+        intervals [210]:
+            xmin = 406.2052696639404 
+            xmax = 406.8940280690577 
+            text = "" 
+        intervals [211]:
+            xmin = 406.8940280690577 
+            xmax = 407.62636319936087 
+            text = "and I don't know" 
+        intervals [212]:
+            xmin = 407.62636319936087 
+            xmax = 408.0149491868687 
+            text = "" 
+        intervals [213]:
+            xmin = 408.0149491868687 
+            xmax = 408.7024474724594 
+            text = "what it is" 
+        intervals [214]:
+            xmin = 408.7024474724594 
+            xmax = 409.375000143146 
+            text = "" 
+        intervals [215]:
+            xmin = 409.375000143146 
+            xmax = 410.25679142249066 
+            text = "through word of mouth" 
+        intervals [216]:
+            xmin = 410.25679142249066 
+            xmax = 410.7201054845192 
+            text = "" 
+        intervals [217]:
+            xmin = 410.7201054845192 
+            xmax = 412.61819857734577 
+            text = "kids passing through and they'll tell you a lot of " 
+        intervals [218]:
+            xmin = 412.61819857734577 
+            xmax = 892.4263806163494 
+            text = "" 
+        intervals [219]:
+            xmin = 892.4263806163494 
+            xmax = 894.010615796189 
+            text = "a cot and a bed" 
+        intervals [220]:
+            xmin = 894.010615796189 
+            xmax = 895.340775522658 
+            text = "" 
+        intervals [221]:
+            xmin = 895.340775522658 
+            xmax = 897.4481072241426 
+            text = "well a bed is much more comfortable a" 
+        intervals [222]:
+            xmin = 897.4481072241426 
+            xmax = 897.4630528390468 
+            text = "" 
+        intervals [223]:
+            xmin = 897.4630528390468 
+            xmax = 898.1505511246374 
+            text = "a cot" 
+        intervals [224]:
+            xmin = 898.1505511246374 
+            xmax = 898.7334301058992 
+            text = "" 
+        intervals [225]:
+            xmin = 898.7334301058992 
+            xmax = 902.8584198194435 
+            text = "you only have a little tiny mattress a bed you have your boxspring and your mattress" 
+        intervals [226]:
+            xmin = 902.8584198194435 
+            xmax = 903.7810052461472 
+            text = "" 
+        intervals [227]:
+            xmin = 903.7810052461472 
+            xmax = 906.3964878543727 
+            text = "which your bed is a lot more comfortable right" 
+        intervals [228]:
+            xmin = 906.3964878543727 
+            xmax = 908.1750160279662 
+            text = "" 
+        intervals [229]:
+            xmin = 908.1750160279662 
+            xmax = 909.4304476799144 
+            text = "why you asking me that" 
+        intervals [230]:
+            xmin = 909.4304476799144 
+            xmax = 922.2647126634778 
+            text = "" 
+        intervals [231]:
+            xmin = 922.2647126634778 
+            xmax = 923.5500355452344 
+            text = "getting caught" 
+        intervals [232]:
+            xmin = 923.5500355452344 
+            xmax = 923.9984039923588 
+            text = "" 
+        intervals [233]:
+            xmin = 923.9984039923588 
+            xmax = 924.7905215822785 
+            text = "doing it" 
+        intervals [234]:
+            xmin = 924.7905215822785 
+            xmax = 929.0772179281996 
+            text = "" 
+        intervals [235]:
+            xmin = 929.0772179281996 
+            xmax = 931.5282987724796 
+            text = "found out to me would be like a word of mouth" 
+        intervals [236]:
+            xmin = 931.5282987724796 
+            xmax = 933.0079146479901 
+            text = "" 
+        intervals [237]:
+            xmin = 933.0079146479901 
+            xmax = 937.4318166596173 
+            text = "like somebody's saying somebody's going out with somebody that's like a word of mouth but if you're right" 
+        intervals [238]:
+            xmin = 937.4318166596173 
+            xmax = 937.4467622745215 
+            text = "" 
+        intervals [239]:
+            xmin = 937.4467622745215 
+            xmax = 939.3747465971563 
+            text = "there and you see them together" 
+        intervals [240]:
+            xmin = 939.3747465971563 
+            xmax = 941.4254753721161 
+            text = "" 
+        intervals [241]:
+            xmin = 941.4254753721161 
+            xmax = 942.5165052601188 
+            text = "there's a difference" 
+        intervals [242]:
+            xmin = 942.5165052601188 
+            xmax = 953.9757491942455 
+            text = "" 
+        intervals [243]:
+            xmin = 953.9757491942455 
+            xmax = 954.947214163015 
+            text = "and a bet" 
+        intervals [244]:
+            xmin = 954.947214163015 
+            xmax = 956.5165037279504 
+            text = "" 
+        intervals [245]:
+            xmin = 956.5165037279504 
+            xmax = 957.7719353798987 
+            text = "you mean like taking" 
+        intervals [246]:
+            xmin = 957.7719353798987 
+            xmax = 958.5042705102019 
+            text = "" 
+        intervals [247]:
+            xmin = 958.5042705102019 
+            xmax = 959.1917687957925 
+            text = "bets with" 
+        intervals [248]:
+            xmin = 959.1917687957925 
+            xmax = 959.849375851575 
+            text = "" 
+        intervals [249]:
+            xmin = 959.849375851575 
+            xmax = 960.9852425842901 
+            text = "whatever horses" 
+        intervals [250]:
+            xmin = 960.9852425842901 
+            xmax = 961.7773601742099 
+            text = "" 
+        intervals [251]:
+            xmin = 961.7773601742099 
+            xmax = 962.5395865343213 
+            text = "that's illegal" 
+        intervals [252]:
+            xmin = 962.5395865343213 
+            xmax = 963.651025735131 
+            text = "" 
+        intervals [253]:
+            xmin = 963.651025735131 
+            xmax = 964.2488503312969 
+            text = "gambling" 
+        intervals [254]:
+            xmin = 964.2488503312969 
+            xmax = 965.4295539087244 
+            text = "" 
+        intervals [255]:
+            xmin = 965.4295539087244 
+            xmax = 966.81949609481 
+            text = "betting is illegal" 
+        intervals [256]:
+            xmin = 966.81949609481 
+            xmax = 968.6428611131158 
+            text = "" 
+        intervals [257]:
+            xmin = 968.6428611131158 
+            xmax = 971.4376911001913 
+            text = "they can book you and take you down for betting they catch you" 
+        intervals [258]:
+            xmin = 971.4376911001913 
+            xmax = 977.9485889352611 
+            text = "" 
+        intervals [259]:
+            xmin = 977.9485889352611 
+            xmax = 979.8167907982793 
+            text = "a mat is a mat" 
+        intervals [260]:
+            xmin = 979.8167907982793 
+            xmax = 981.0871680651318 
+            text = "" 
+        intervals [261]:
+            xmin = 981.0871680651318 
+            xmax = 983.3738471454661 
+            text = "is for your support of the rug" 
+        intervals [262]:
+            xmin = 983.3738471454661 
+            xmax = 983.6428682137407 
+            text = "" 
+        intervals [263]:
+            xmin = 983.6428682137407 
+            xmax = 986.3779157411996 
+            text = "okay your mat goes down first and its usually" 
+        intervals [264]:
+            xmin = 986.3779157411996 
+            xmax = 988.1197903778075 
+            text = "" 
+        intervals [265]:
+            xmin = 988.1197903778075 
+            xmax = 990.421415073046 
+            text = "and then your rug which would probably be" 
+        intervals [266]:
+            xmin = 990.421415073046 
+            xmax = 990.5110887624709 
+            text = "" 
+        intervals [267]:
+            xmin = 990.5110887624709 
+            xmax = 992.9322783769426 
+            text = "plush or high grade which ever" 
+        intervals [268]:
+            xmin = 992.9322783769426 
+            xmax = 992.9920608365592 
+            text = "" 
+        intervals [269]:
+            xmin = 992.9920608365592 
+            xmax = 995.2637943019894 
+            text = "you pick the mat is just for your support" 
+        intervals [270]:
+            xmin = 995.2637943019894 
+            xmax = 995.7569995938262 
+            text = "" 
+        intervals [271]:
+            xmin = 995.7569995938262 
+            xmax = 997.0423224755829 
+            text = "did you people need some help" 
+        intervals [272]:
+            xmin = 997.0423224755829 
+            xmax = 1000.5926165155922 
+            text = "" 
+        intervals [273]:
+            xmin = 1000.5926165155922 
+            xmax = 1001.1306586521415 
+            text = "Eddie" 
+        intervals [274]:
+            xmin = 1001.1306586521415 
+            xmax = 1001.3697884906079 
+            text = "" 
+        intervals [275]:
+            xmin = 1001.3697884906079 
+            xmax = 1003.6564675709423 
+            text = "he's got a buy he'll be right over to help you" 
+        intervals [276]:
+            xmin = 1003.6564675709423 
+            xmax = 1013.6252416685178 
+            text = "" 
+        intervals [277]:
+            xmin = 1013.6252416685178 
+            xmax = 1015.9268663637563 
+            text = "do I think they talk different in what way" 
+        intervals [278]:
+            xmin = 1015.9268663637563 
+            xmax = 1018.58583825091 
+            text = "" 
+        intervals [279]:
+            xmin = 1018.58583825091 
+            xmax = 1022.4567525110839 
+            text = "no I think they're pretty much the same Utica and here now California" 
+        intervals [280]:
+            xmin = 1022.4567525110839 
+            xmax = 1022.4866437408922 
+            text = "" 
+        intervals [281]:
+            xmin = 1022.4866437408922 
+            xmax = 1026.2556583065611 
+            text = "has the accent New York City has the accent I mean right away when I'm in those" 
+        intervals [282]:
+            xmin = 1026.2556583065611 
+            xmax = 1026.2706039214652 
+            text = "" 
+        intervals [283]:
+            xmin = 1026.2706039214652 
+            xmax = 1028.482554927279 
+            text = "places they go you must be from you know they know" 
+        intervals [284]:
+            xmin = 1028.482554927279 
+            xmax = 1034.42551874376 
+            text = "" 
+        intervals [285]:
+            xmin = 1034.42551874376 
+            xmax = 1037.8480645568095 
+            text = "no I think there could be a little accent there with Albany a little bit" 
+        intervals [286]:
+            xmin = 1037.8480645568095 
+            xmax = 1039.363010881776 
+            text = "" 
+        intervals [287]:
+            xmin = 1039.363010881776 
+            xmax = 1041.0763173761052 
+            text = "I told you my sister in laws down there" 
+        intervals [288]:
+            xmin = 1041.0763173761052 
+            xmax = 1045.5151894808916 
+            text = "" 
+        intervals [289]:
+            xmin = 1045.5151894808916 
+            xmax = 1047.0545878160187 
+            text = "hurry up 'cause I'm going home" 
+        intervals [290]:
+            xmin = 1047.0545878160187 
+            xmax = 1064.6103162823529 
+            text = "" 
+        intervals [291]:
+            xmin = 1064.6103162823529 
+            xmax = 1068.5410130021432 
+            text = "the school I go to we have a very strict dress code" 
+        intervals [292]:
+            xmin = 1068.5410130021432 
+            xmax = 1069.8969967828123 
+            text = "" 
+        intervals [293]:
+            xmin = 1069.8969967828123 
+            xmax = 1073.4839443598075 
+            text = "you have to wear button down shirts with a collar" 
+        intervals [294]:
+            xmin = 1073.4839443598075 
+            xmax = 1074.924922845677 
+            text = "" 
+        intervals [295]:
+            xmin = 1074.924922845677 
+            xmax = 1078.1564925600014 
+            text = "boys and girls no matter what sex" 
+        intervals [296]:
+            xmin = 1078.1564925600014 
+            xmax = 1078.9757637551825 
+            text = "" 
+        intervals [297]:
+            xmin = 1078.9757637551825 
+            xmax = 1081.3273755191276 
+            text = "I hate those shirts" 
+        intervals [298]:
+            xmin = 1081.3273755191276 
+            xmax = 1081.6815129925756 
+            text = "" 
+        intervals [299]:
+            xmin = 1081.6815129925756 
+            xmax = 1084.8068808853027 
+            text = "they look like sacks you can't even" 
+        intervals [300]:
+            xmin = 1084.8068808853027 
+            xmax = 1086.4339803690727 
+            text = "" 
+        intervals [301]:
+            xmin = 1086.4339803690727 
+            xmax = 1087.6275050444453 
+            text = "tell them at the" 
+        intervals [302]:
+            xmin = 1087.6275050444453 
+            xmax = 1087.743946476189 
+            text = "" 
+        intervals [303]:
+            xmin = 1087.743946476189 
+            xmax = 1090.3056579745498 
+            text = "tie them at the bottom my girlfriend" 
+        intervals [304]:
+            xmin = 1090.3056579745498 
+            xmax = 1090.7132029856525 
+            text = "" 
+        intervals [305]:
+            xmin = 1090.7132029856525 
+            xmax = 1093.8862320006676 
+            text = "Jan got detention for that" 
+        intervals [306]:
+            xmin = 1093.8862320006676 
+            xmax = 1094.3811080855783 
+            text = "" 
+        intervals [307]:
+            xmin = 1094.3811080855783 
+            xmax = 1097.8743510378883 
+            text = "she had to stay 'till six and you" 
+        intervals [308]:
+            xmin = 1097.8743510378883 
+            xmax = 1098.0490131855038 
+            text = "" 
+        intervals [309]:
+            xmin = 1098.0490131855038 
+            xmax = 1101.1929318425828 
+            text = "got to wear socks no flipflops" 
+        intervals [310]:
+            xmin = 1101.1929318425828 
+            xmax = 1101.4258147060702 
+            text = "" 
+        intervals [311]:
+            xmin = 1101.4258147060702 
+            xmax = 1105.5303751750346 
+            text = "the hall monitor stalks you to see if you are out of uniform" 
+        intervals [312]:
+            xmin = 1105.5303751750346 
+            xmax = 1106.2267166440438 
+            text = "" 
+        intervals [313]:
+            xmin = 1106.2267166440438 
+            xmax = 1107.7404552567116 
+            text = "last week John got" 
+        intervals [314]:
+            xmin = 1107.7404552567116 
+            xmax = 1108.3517727733658 
+            text = "" 
+        intervals [315]:
+            xmin = 1108.3517727733658 
+            xmax = 1110.1566149653927 
+            text = "suspended because he said" 
+        intervals [316]:
+            xmin = 1110.1566149653927 
+            xmax = 1110.576262963302 
+            text = "" 
+        intervals [317]:
+            xmin = 1110.576262963302 
+            xmax = 1113.8245200653184 
+            text = "the dress code sucks I don't see what's wrong" 
+        intervals [318]:
+            xmin = 1113.8245200653184 
+            xmax = 1114.142281810452 
+            text = "" 
+        intervals [319]:
+            xmin = 1114.142281810452 
+            xmax = 1117.5918592258581 
+            text = "with that even my father says that you know what I mean" 
+        intervals [320]:
+            xmin = 1117.5918592258581 
+            xmax = 1118.4708889417823 
+            text = "" 
+        intervals [321]:
+            xmin = 1118.4708889417823 
+            xmax = 1122.0369077889322 
+            text = "I am too sick of that I am so sick of that school" 
+        intervals [322]:
+            xmin = 1122.0369077889322 
+            xmax = 1123.654984483464 
+            text = "" 
+        intervals [323]:
+            xmin = 1123.654984483464 
+            xmax = 1125.459826675491 
+            text = "over here no we really don't" 
+        intervals [324]:
+            xmin = 1125.459826675491 
+            xmax = 1125.5908232862025 
+            text = "" 
+        intervals [325]:
+            xmin = 1125.5908232862025 
+            xmax = 1128.938514448833 
+            text = "have a dress code really I mean the kids dress" 
+        intervals [326]:
+            xmin = 1128.938514448833 
+            xmax = 1128.996735164705 
+            text = "" 
+        intervals [327]:
+            xmin = 1128.996735164705 
+            xmax = 1131.9951020321046 
+            text = "if you look you can see I mean they could wear bagged out shirts" 
+        intervals [328]:
+            xmin = 1131.9951020321046 
+            xmax = 1132.4172022221753 
+            text = "" 
+        intervals [329]:
+            xmin = 1132.4172022221753 
+            xmax = 1134.1347133403945 
+            text = "they do wear flipflops" 
+        intervals [330]:
+            xmin = 1134.1347133403945 
+            xmax = 1135.1730347052958 
+            text = "" 
+        intervals [331]:
+            xmin = 1135.1730347052958 
+            xmax = 1139.001046773869 
+            text = "they can wear shorts down to here they don't come in like in a Speedo" 
+        intervals [332]:
+            xmin = 1139.001046773869 
+            xmax = 1142.7526831017508 
+            text = "" 
+        intervals [333]:
+            xmin = 1142.7526831017508 
+            xmax = 1145.8383810429582 
+            text = "we don't have no hall monitors here watching all that" 
+        intervals [334]:
+            xmin = 1145.8383810429582 
+            xmax = 1150.2829468872656 
+            text = "" 
+        intervals [335]:
+            xmin = 1150.2829468872656 
+            xmax = 1153.1122620362307 
+            text = "presentable way to be they'll get stopped or talked to" 
+        intervals [336]:
+            xmin = 1153.1122620362307 
+            xmax = 1154.5224528879332 
+            text = "" 
+        intervals [337]:
+            xmin = 1154.5224528879332 
+            xmax = 1155.7815721950642 
+            text = "that type of thing but" 
+        intervals [338]:
+            xmin = 1155.7815721950642 
+            xmax = 1158.7145795222639 
+            text = "" 
+        intervals [339]:
+            xmin = 1158.7145795222639 
+            xmax = 1159.7959408095649 
+            text = "I've never heard of that" 
+        intervals [340]:
+            xmin = 1159.7959408095649 
+            xmax = 1164.094699483509 
+            text = "" 
+        intervals [341]:
+            xmin = 1164.094699483509 
+            xmax = 1167.768365226668 
+            text = "the highschools I would say are pretty much like here" 
+        intervals [342]:
+            xmin = 1167.768365226668 
+            xmax = 1168.775660672373 
+            text = "" 
+        intervals [343]:
+            xmin = 1168.775660672373 
+            xmax = 1172.138249880829 
+            text = "because my sister teaches over in Proctor over there and it" 
+        intervals [344]:
+            xmin = 1172.138249880829 
+            xmax = 1188.6022292771859 
+            text = "" 
+        intervals [345]:
+            xmin = 1188.6022292771859 
+            xmax = 1189.4169535347414 
+            text = "cot" 
+        intervals [346]:
+            xmin = 1189.4169535347414 
+            xmax = 1189.609524722891 
+            text = "" 
+        intervals [347]:
+            xmin = 1189.609524722891 
+            xmax = 1190.4686884854038 
+            text = "caught" 
+        intervals [348]:
+            xmin = 1190.4686884854038 
+            xmax = 1196.7907103188518 
+            text = "" 
+        intervals [349]:
+            xmin = 1196.7907103188518 
+            xmax = 1197.6795004180033 
+            text = "Don" 
+        intervals [350]:
+            xmin = 1197.6795004180033 
+            xmax = 1198.360906160686 
+            text = "" 
+        intervals [351]:
+            xmin = 1198.360906160686 
+            xmax = 1198.9682460617728 
+            text = "dawn" 
+        intervals [352]:
+            xmin = 1198.9682460617728 
+            xmax = 1201.9160665572915 
+            text = "" 
+        intervals [353]:
+            xmin = 1201.9160665572915 
+            xmax = 1202.5382196266976 
+            text = "father" 
+        intervals [354]:
+            xmin = 1202.5382196266976 
+            xmax = 1202.6122854682935 
+            text = "" 
+        intervals [355]:
+            xmin = 1202.6122854682935 
+            xmax = 1203.1751858644227 
+            text = "brother" 
+        intervals [356]:
+            xmin = 1203.1751858644227 
+            xmax = 1206.8221651323227 
+            text = "" 
+        intervals [357]:
+            xmin = 1206.8221651323227 
+            xmax = 1207.8442737463467 
+            text = "father bother" 
+        intervals [358]:
+            xmin = 1207.8442737463467 
+            xmax = 1208.733063845498 
+            text = "" 
+        intervals [359]:
+            xmin = 1208.733063845498 
+            xmax = 1209.6959197862454 
+            text = "father bother" 
+        intervals [360]:
+            xmin = 1209.6959197862454 
+            xmax = 1213.3242151760019 
+            text = "" 
+        intervals [361]:
+            xmin = 1213.3242151760019 
+            xmax = 1214.8647846811978 
+            text = "nearer mirror" 
+        intervals [362]:
+            xmin = 1214.8647846811978 
+            xmax = 1214.9263272113749 
+            text = "" 
+        intervals [363]:
+            xmin = 1214.9263272113749 
+            xmax = 1215.6272753684807 
+            text = "those rhyme" 
+        intervals [364]:
+            xmin = 1215.6272753684807 
+            xmax = 1216.411495086619 
+            text = "" 
+        intervals [365]:
+            xmin = 1216.411495086619 
+            xmax = 1217.3595378590471 
+            text = "fool" 
+        intervals [366]:
+            xmin = 1217.3595378590471 
+            xmax = 1218.751975681051 
+            text = "" 
+        intervals [367]:
+            xmin = 1218.751975681051 
+            xmax = 1219.3445024138184 
+            text = "full" 
+        intervals [368]:
+            xmin = 1219.3445024138184 
+            xmax = 1219.774084295075 
+            text = "" 
+        intervals [369]:
+            xmin = 1219.774084295075 
+            xmax = 1220.4110505328001 
+            text = "fool" 
+        intervals [370]:
+            xmin = 1220.4110505328001 
+            xmax = 1220.544369047673 
+            text = "" 
+        intervals [371]:
+            xmin = 1220.544369047673 
+            xmax = 1221.0776431071638 
+            text = "full" 
+        intervals [372]:
+            xmin = 1221.0776431071638 
+            xmax = 1237.0762733853999 
+            text = "" 
+        intervals [373]:
+            xmin = 1237.0762733853999 
+            xmax = 1238.5131507123613 
+            text = "farm dusk" 
+        intervals [374]:
+            xmin = 1238.5131507123613 
+            xmax = 1238.7649745737876 
+            text = "" 
+        intervals [375]:
+            xmin = 1238.7649745737876 
+            xmax = 1240.8388181384742 
+            text = "sight socks elementary" 
+        intervals [376]:
+            xmin = 1240.8388181384742 
+            xmax = 1240.9276971483894 
+            text = "" 
+        intervals [377]:
+            xmin = 1240.9276971483894 
+            xmax = 1242.9126617031607 
+            text = "highschool boat slider" 
+        intervals [378]:
+            xmin = 1242.9126617031607 
+            xmax = 1243.1348592279487 
+            text = "" 
+        intervals [379]:
+            xmin = 1243.1348592279487 
+            xmax = 1245.5197793273383 
+            text = "six tiger burn" 
+        intervals [380]:
+            xmin = 1245.5197793273383 
+            xmax = 1246.18704157268 
+            text = "" 
+        intervals [381]:
+            xmin = 1246.18704157268 
+            xmax = 1249.8903336524775 
+            text = "writing go stalks wide inventory firm" 
+        intervals [382]:
+            xmin = 1249.8903336524775 
+            xmax = 1250.39398137533 
+            text = "" 
+        intervals [383]:
+            xmin = 1250.39398137533 
+            xmax = 1251.801232365653 
+            text = "spider desk" 
+        intervals [384]:
+            xmin = 1251.801232365653 
+            xmax = 1256.9572632785535 
+            text = "" 
+        intervals [385]:
+            xmin = 1256.9572632785535 
+            xmax = 1257.960064484127 
+            text = "I'm stuck" 
+        intervals [386]:
+            xmin = 1257.960064484127 
+            xmax = 1263.32948685034 
+            text = "" 
+        intervals [387]:
+            xmin = 1263.32948685034 
+            xmax = 1264.3812218010025 
+            text = "rudimentary" 
+        intervals [388]:
+            xmin = 1264.3812218010025 
+            xmax = 1267.5956793262667 
+            text = "" 
+        intervals [389]:
+            xmin = 1267.5956793262667 
+            xmax = 1268.8399854650786 
+            text = "W white" 
+        intervals [390]:
+            xmin = 1268.8399854650786 
+            xmax = 1269.106622494824 
+            text = "" 
+        intervals [391]:
+            xmin = 1269.106622494824 
+            xmax = 1270.0991047722098 
+            text = "crayon" 
+        intervals [392]:
+            xmin = 1270.0991047722098 
+            xmax = 1270.6353186930799 
+            text = "" 
+        intervals [393]:
+            xmin = 1270.6353186930799 
+            xmax = 1272.975799287512 
+            text = "graham cracker Mary miner" 
+        intervals [394]:
+            xmin = 1272.975799287512 
+            xmax = 1273.4794470103643 
+            text = "" 
+        intervals [395]:
+            xmin = 1273.4794470103643 
+            xmax = 1277.2271785951195 
+            text = "vague law sucks side horse barn" 
+        intervals [396]:
+            xmin = 1277.2271785951195 
+            xmax = 1280.195953159183 
+            text = "" 
+        intervals [397]:
+            xmin = 1280.195953159183 
+            xmax = 1283.54372919932 
+            text = "tide marry ma and pa minor" 
+        intervals [398]:
+            xmin = 1283.54372919932 
+            xmax = 1284.229675322805 
+            text = "" 
+        intervals [399]:
+            xmin = 1284.229675322805 
+            xmax = 1287.4589460163884 
+            text = "sedimentary sacks riding no bag" 
+        intervals [400]:
+            xmin = 1287.4589460163884 
+            xmax = 1287.6663303728571 
+            text = "" 
+        intervals [401]:
+            xmin = 1287.6663303728571 
+            xmax = 1289.4142842345213 
+            text = "tied sex home" 
+        intervals [402]:
+            xmin = 1289.4142842345213 
+            xmax = 1304.461875 
+            text = "" 

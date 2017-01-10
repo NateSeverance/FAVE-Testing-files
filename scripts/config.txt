@@ -1,0 +1,7 @@
+outputFormat=both
+formantPredictionMethod=Mahalanobis
+measurementPointMethod=FAAV
+nSmoothing=12
+remeasurement=T
+vowelSystem=NorthAmerican
+speechSoftware=Praat
