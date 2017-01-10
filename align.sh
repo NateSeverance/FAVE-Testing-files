@@ -9,7 +9,7 @@ cd $FAAVDIR
 # Modify this to analyze different speakers
 #filenames="JanetB AlexS BrianL"
 filenames="AlexS"
-pronunciationsFile=/Users/NateSeverance/Desktop/FAVE-final-results/OOV-words-Utica-tab.txt
+pronunciationsFile=/Users/NateSeverance/Desktop/FAVE-final-results/OOV-words-Utica.txt
 
 for f in $filenames
 do
