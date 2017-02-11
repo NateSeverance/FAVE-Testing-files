@@ -102,7 +102,7 @@ indicies.L <- grep('\\.5', x$plt_code, perl = TRUE)
 indicies.N <- grep('\\.4', x$plt_code, perl = TRUE)
 indicies.E <- grep('^((?!\\.6|\\.5|\\.4).)*$', x$plt_code, perl = TRUE)
 
-# Relabel vowels according to desired environment
+# Relabel vowels according to following environment
 # -NATE
 x$vowel[indicies.R] <- paste(x$vowel[indicies.R], "_R", sep = "")
 x$vowel[indicies.L] <- paste(x$vowel[indicies.L], "_L", sep = "")
