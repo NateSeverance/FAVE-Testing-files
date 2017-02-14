@@ -121,6 +121,9 @@ for (v in unique(d$vowel)) {
   d_sub <- subset(d, vowel == v)
   N <- nrow(d_sub)
 
+  f1_r <- 'NA'
+  f2_r <- 'NA'
+  
   f1_man_mean <- mean(d_sub$F1_man)
   f1_auto_mean <- mean(d_sub$F1)
   f2_man_mean <- mean(d_sub$F2_man)
@@ -174,10 +177,10 @@ for (v in unique(d$vowel)) {
     f2_p_paired <- 'NA'
     f2_t_paired <- 'NA'
   }
-
+  if (N >= 3) {
   f1_r <- cor.test(d_sub$F1, d_sub$F1_man)$estimate
   f2_r <- cor.test(d_sub$F2, d_sub$F2_man)$estimate
-
+  }
   cat(v, N, f1_man_mean, f1_auto_mean, f1_diff, f2_man_mean, f2_auto_mean, f2_diff, f1_man_sd, f1_auto_sd, f2_man_sd, f2_auto_sd, f1_rmse, f2_rmse, f1_diff_mean, f1_diff_sd, f2_diff_mean, f2_diff_sd, f1_abs_diff_mean, f1_abs_diff_sd, f2_abs_diff_mean, f2_abs_diff_sd, f1_p, f1_t, f2_p, f2_t, f1_p_paired, f1_t_paired, f2_p_paired, f2_t_paired, f1_r, f2_r, sep='\t', file = fw)
   cat('\n', file = fw)
 }
@@ -190,6 +193,9 @@ for (v in unique(x$vowel)) {
   
   x_sub <- subset(x, vowel == v)
   N <- nrow(x_sub)
+  
+  f1_r <- 'NA'
+  f2_r <- 'NA'
   
   f1_man_mean <- mean(x_sub$F1_man)
   f1_auto_mean <- mean(x_sub$F1)
@@ -244,11 +250,10 @@ for (v in unique(x$vowel)) {
     f2_p_paired <- 'NA'
     f2_t_paired <- 'NA'
   }
-  
+  if (N >= 3) { 
   f1_r <- cor.test(x_sub$F1, x_sub$F1_man)$estimate
   f2_r <- cor.test(x_sub$F2, x_sub$F2_man)$estimate
-  
+  }  
   cat(v, N, f1_man_mean, f1_auto_mean, f1_diff, f2_man_mean, f2_auto_mean, f2_diff, f1_man_sd, f1_auto_sd, f2_man_sd, f2_auto_sd, f1_rmse, f2_rmse, f1_diff_mean, f1_diff_sd, f2_diff_mean, f2_diff_sd, f1_abs_diff_mean, f1_abs_diff_sd, f2_abs_diff_mean, f2_abs_diff_sd, f1_p, f1_t, f2_p, f2_t, f1_p_paired, f1_t_paired, f2_p_paired, f2_t_paired, f1_r, f2_r, sep='\t', file = fw)
   cat('\n', file = fw)
 }
-
