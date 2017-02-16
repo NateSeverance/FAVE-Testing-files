@@ -111,8 +111,8 @@ x$vowel[indicies.E] <- paste(x$vowel[indicies.E], "_E", sep = "")
 
 # Reconvert character columns back to factors.
 # -NATE
-as.factor(x$vowel)
-as.factor(x$plt_code)
+x$vowel <- as.factor(x$vowel)
+x$plt_code <- as.factor(x$plt_code)
 
 # calculate the stats for each vowel category
 
@@ -121,6 +121,8 @@ for (v in unique(d$vowel)) {
   d_sub <- subset(d, vowel == v)
   N <- nrow(d_sub)
 
+# Fill correlation test columns before running correlations which only run with a condition later.
+# -NATE
   f1_r <- 'NA'
   f2_r <- 'NA'
   
@@ -177,6 +179,8 @@ for (v in unique(d$vowel)) {
     f2_p_paired <- 'NA'
     f2_t_paired <- 'NA'
   }
+# Added a condition to ensure that this step does not fail.
+# -NATE
   if (N >= 3) {
   f1_r <- cor.test(d_sub$F1, d_sub$F1_man)$estimate
   f2_r <- cor.test(d_sub$F2, d_sub$F2_man)$estimate
