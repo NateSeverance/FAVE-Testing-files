@@ -12,6 +12,7 @@ if __name__ == '__main__':
   parser.add_argument('pltFile', help = 'The input Plotnik .plt file with manual formant measurements')
   parser.add_argument('txtFile', help = 'The input FAVE .txt file with automated formant measurements')
   parser.add_argument('outputFile', help = 'The output file with the merged measurements')
+  parser.add_argument('--keelan', help = "Use input FAVE files produced by Keelan's version of FAVE", action = "store_true")
 
   args = parser.parse_args()
 
@@ -19,18 +20,26 @@ if __name__ == '__main__':
   txtFile = args.txtFile
   outputFile = args.outputFile
 
+  if args.keelan:
+    FAVE_WORD_INDEX = 15
+    FAVE_HEADER_LINE = 0
+    FAVE_TIME_INDEX = 23
+    FAVE_VOWEL_INDEX = 12
+  else:
+    FAVE_WORD_INDEX = 2
+    FAVE_HEADER_LINE = 2
+    FAVE_TIME_INDEX = 9
+    FAVE_VOWEL_INDEX = 0
+
   plotnikCodes = {'1':'IH', '2':'EH', '3':'AE', '5':'AA', '6':'AH', '7':'UH', '11':'IY', '12':'IY', '21':'EY', '22':'EY', '39':'AE_BR', '41':'AY', '47':'AY', '61':'OY', '42':'AW', '62':'OW', '63':'OW', '72':'UW', '73':'UW', '82':'UW', '43':'AA', '53':'AO', '14':'IH', '24':'EH', '44':'AA', '54':'AO', '64':'AO', '74':'UH', '94':'ER'}
   
   words = {}
   
-  # check whether the input Plotnik file is .plt or .pln
-  ext = pltFile.split('.')[-1]
-  
   lines = open(txtFile).readlines()
-  header = lines[0].rstrip('\n')
-  for line in lines[1:]:
+  header = lines[FAVE_HEADER_LINE].rstrip('\n')
+  for line in lines[FAVE_HEADER_LINE+1:]:
     line = line.rstrip('\n')
-    w = line.split('\t')[15]
+    w = line.split('\t')[FAVE_WORD_INDEX]
     w = w.upper()
     if w in words:
       words[w].append(line)
@@ -74,7 +83,7 @@ if __name__ == '__main__':
     min_diff = 1000
     min_diff_auto_line = ''
     for auto_line in words[plt_w]:
-      t = float(auto_line.split('\t')[23])
+      t = float(auto_line.split('\t')[FAVE_TIME_INDEX])
       diff = abs(plt_t - t)
       if diff < min_diff:
         min_diff_auto_line = auto_line
@@ -90,7 +99,7 @@ if __name__ == '__main__':
    
     plt_v = plt_line.split(',')[3].split('.')[0]
     plt_v = plotnikCodes[plt_v]
-    v = min_diff_auto_line.split('\t')[12]
+    v = min_diff_auto_line.split('\t')[FAVE_VOWEL_INDEX]
     if plt_v != v:
       skipped_lines.append(plt_line)
       print("SKIPPING LINE -- WORD FOUND, BUT VOWEL DOES NOT MATCH")
