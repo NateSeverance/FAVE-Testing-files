@@ -35,6 +35,7 @@ fw = open(outputFile, 'w')
 fw.write(header)
 
 plt_lines = open(pltFile, 'rb').readlines()
+skipped_lines = []
 # skip the first two lines since they contain header information
 for plt_line in plt_lines[2:]:
   print(plt_line)
@@ -54,6 +55,7 @@ for plt_line in plt_lines[2:]:
   plt_w = plt_w.replace(')', '')
   print(plt_w)
   if plt_w not in words:
+    skipped_lines.append(plt_line)
     print("SKIPPING LINE -- WORD NOT FOUND")
     print(plt_line)
     print("")
@@ -71,6 +73,7 @@ for plt_line in plt_lines[2:]:
       min_diff = diff
 
   if min_diff > 0.1:
+    skipped_lines.append(plt_line)
     print("SKIPPING LINE -- WORD AND VOWEL FOUND, BUT MEASUREMENT POINT DIFFERENCE EXCEEDS THRESHOLD")
     print(plt_line)
     print(min_diff_auto_line)
@@ -81,6 +84,7 @@ for plt_line in plt_lines[2:]:
   plt_v = plotnikCodes[plt_v]
   v = min_diff_auto_line.split('\t')[12]
   if plt_v != v:
+    skipped_lines.append(plt_line)
     print("SKIPPING LINE -- WORD FOUND, BUT VOWEL DOES NOT MATCH")
     print(plt_line)
     print(min_diff_auto_line)
@@ -95,3 +99,6 @@ for plt_line in plt_lines[2:]:
   fw.write(output)
 
 fw.close()
+
+n_skipped = len(skipped_lines)
+print("SKIPPED %d LINES OVERALL FROM PLT INPUT FILE" % n_skipped)
