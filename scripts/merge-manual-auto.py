@@ -39,6 +39,10 @@ if __name__ == '__main__':
   header = lines[FAVE_HEADER_LINE].rstrip('\n')
   for line in lines[FAVE_HEADER_LINE+1:]:
     line = line.rstrip('\n')
+    # The version of FAVE that Nate is using appears to include an extra tab
+    # character at the end of each data line that needs to be stripped off.
+    if not args.keelan:
+      line = line.rstrip('\t')
     w = line.split('\t')[FAVE_WORD_INDEX]
     w = w.upper()
     if w in words:
